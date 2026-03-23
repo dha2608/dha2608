@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=dha2608&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Nature%20Dreamer%20%C2%B7%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=SeraxNyxie&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Nature%20Dreamer%20%C2%B7%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=3500&pause=1000&color=C050A0&center=true&vCenter=true&repeat=true&width=600&height=60&lines=const+life+%3D+%7B+code%3A+true%2C+nature%3A+true+%7D+%F0%9F%8C%B8;Building+beautiful+things%2C+one+commit+at+a+time+%F0%9F%8D%83;Chasing+that+Ghibli+feeling+in+every+UI+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
@@ -25,13 +25,13 @@
 
 ```typescript
 const dha2608 = {
-  name      : "dha2608",
+  name      : "SeraxNyxie",
   role      : "Fullstack Developer",
   location  : "Vietnam 🇻🇳",
   stacks    : ["React", "Node.js", "TypeScript", "Spring Boot"],
   passions  : ["Clean Code", "Studio Ghibli", "UI/UX Design", "Open Source"],
-  currentlyBuilding : "FinGenie — AI expense management app 🌸",
-  funFact   : "I debug code while listening to Ghibli OSTs 🎵🌲",
+  currentlyBuilding : "FinGenie — AI expense management app ",
+  funFact   : "I debug code while listening to Ghibli OSTs ",
 };
 ```
 
@@ -206,7 +206,7 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&width=500)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&count=1&width=500)](https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm)
 
 <!-- Hoặc dùng novatorem/spotify-github-profile: -->
 <!-- [![Spotify](https://YOUR_APP.vercel.app/api?background_color=fff5fb&border_color=f0c0d8)](https://open.spotify.com) -->
