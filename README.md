@@ -1,49 +1,63 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=dha2608&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20·%20Anime%20Dreamer%20·%20Code%20Poet&descSize=18&descAlignY=58&descColor=ffccee" width="100%" />
+<!-- ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0a1e,50:3a1848,100:1a0a2e&height=220&section=header&text=dha2608&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20·%20Anime%20Dreamer%20·%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffccee&stroke=e87890&strokeWidth=2" width="100%" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3500&pause=1000&color=E879A0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=const+life+%3D+%7B+code%3A+true%2C+anime%3A+true+%7D+%F0%9F%8C%B8;Building+beautiful+things%2C+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+<!-- ANIMATED GRADIENT LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-
-<!-- BADGES -->
-![Open to Work](https://img.shields.io/badge/%F0%9F%8C%B8_Open_to_Work-ff80b0?style=for-the-badge&labelColor=fff0f6&color=ff80b0)
-![Fullstack Dev](https://img.shields.io/badge/%E2%9A%A1_Fullstack_Dev-9b7fd4?style=for-the-badge&labelColor=f3f0ff&color=9b7fd4)
-![Anime Lover](https://img.shields.io/badge/%F0%9F%8E%8C_Anime_Lover-6ba3e8?style=for-the-badge&labelColor=f0f5ff&color=6ba3e8)
-![Coffee Driven](https://img.shields.io/badge/%E2%98%95_Coffee_Driven-3a9a6a?style=for-the-badge&labelColor=f0fff8&color=3a9a6a)
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=E879A0&center=true&vCenter=true&repeat=true&width=680&height=50&lines=const+soul+%3D+%7B+code%3A+%E2%88%9E%2C+ghibli%3A+true+%7D+%F0%9F%8C%B8;while(alive)+%7B+learn()%3B+create()%3B+dream()%3B+%7D;git+commit+-m+%22another+beautiful+day+%E2%9C%A8%22;console.log(%22hello%2C+world+%F0%9F%8C%B8%22))](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dha2608&style=flat-square&color=ff80b0&label=Profile+Views)](https://github.com/dha2608)
-[![GitHub followers](https://img.shields.io/github/followers/dha2608?style=flat-square&color=c0a0ff&label=Followers)](https://github.com/dha2608?tab=followers)
+<!-- BADGES -->
+![React](https://img.shields.io/badge/React%20%2B%20Node.js-1a0828?style=for-the-badge&logo=react&logoColor=ff80b0&labelColor=1a0828)
+![Fullstack](https://img.shields.io/badge/⚡_Fullstack_Dev-2a1040?style=for-the-badge&logoColor=c080ff&labelColor=2a1040&color=c080ff)
+![Ghibli](https://img.shields.io/badge/🎌_Studio_Ghibli-0e1a3a?style=for-the-badge&logoColor=80c0ff&labelColor=0e1a3a&color=80c0ff)
+![Coffee](https://img.shields.io/badge/☕_Coffee_Driven-1a200a?style=for-the-badge&logoColor=d4a84b&labelColor=1a200a&color=d4a84b)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dha2608&style=for-the-badge&color=e87890&label=PROFILE+VIEWS&labelColor=1a0828)](https://github.com/dha2608)
+[![GitHub followers](https://img.shields.io/github/followers/dha2608?style=for-the-badge&color=c080ff&label=FOLLOWERS&labelColor=1a0828&logo=github&logoColor=c080ff)](https://github.com/dha2608?tab=followers)
 
 </div>
 
 ---
 
-## 🌿 About Me
+<div align="center"><sub>✦ &nbsp; CRAFTING BEAUTIFUL THINGS, ONE COMMIT AT A TIME &nbsp; ✦</sub></div>
+
+---
+
+## 🌿 `whoami`
 
 ```typescript
 const dha2608 = {
-  name      : "dha2608",
   role      : "Fullstack Developer",
   location  : "Vietnam 🇻🇳",
   stacks    : ["React", "Node.js", "TypeScript", "Spring Boot"],
-  passions  : ["Clean Code", "Studio Ghibli", "UI/UX Design", "Open Source"],
-  currentlyBuilding : "FinGenie — AI expense management app 🌸",
-  funFact   : "I debug code while watching Ghibli OSTs 🎵",
-};
+  passions  : ["Clean Code 🌿", "Studio Ghibli 🎌", "UI/UX Design ✨", "Open Source 🌍"],
+  nowBuilding : "FinGenie — AI expense management app 🌸",
+  soundtrack  : "Merry-Go-Round of Life — Joe Hisaishi 🎵",
+  philosophy  : "Great software, like great anime, tells a story.",
+  funFact   : "I debug best while listening to Ghibli OSTs 🎼",
+} as const;
 ```
 
-> Hey there! I'm a Fullstack Developer who writes clean code by day and watches Ghibli films by night 🎥🌙  
-> I believe great software, like great anime, **tells a story**.  
-> I build with **React & Node.js**, obsess over UI details, and chase that feeling when everything just *flows* — like wind through the grass in Totoro's forest.
+> Fullstack developer writing clean code by day, watching Ghibli films by night 🎥🌙
+> Building with **React & Node.js**, obsessing over every pixel, chasing that feeling when everything just *flows* — like wind through the grass in Totoro's forest.
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-dha2608.vercel.app/api/spotify)](https://open.spotify.com/user/dha2608)
+
+> *If Spotify widget isn't set up yet — currently vibing to:*
+> **🎼 Merry-Go-Round of Life** — Joe Hisaishi · Howl's Moving Castle OST
+
+</div>
 
 ---
 
@@ -56,6 +70,7 @@ const dha2608 = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2b5ccc)
 ![React Native](https://img.shields.io/badge/React_Native-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![Figma](https://img.shields.io/badge/Figma-fff3f0?style=flat-square&logo=figma&logoColor=c85030)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-e8f8ff?style=flat-square&logo=tailwindcss&logoColor=0080c0)
 
 **🛠️ Backend**
 
@@ -63,41 +78,60 @@ const dha2608 = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-edfff2?style=flat-square&logo=springboot&logoColor=3a8a3a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eef4ff?style=flat-square&logo=postgresql&logoColor=336699)
 ![MongoDB](https://img.shields.io/badge/MongoDB-f0fff4?style=flat-square&logo=mongodb&logoColor=1e7e3a)
+![Redis](https://img.shields.io/badge/Redis-fff0ef?style=flat-square&logo=redis&logoColor=c04030)
 
-**⚙️ DevOps & Tools**
+**⚙️ DevOps & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-e8f5ff?style=flat-square&logo=docker&logoColor=0088cc)
 ![Git](https://img.shields.io/badge/Git-fff0ef?style=flat-square&logo=git&logoColor=c04030)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-f5f5ff?style=flat-square&logo=githubactions&logoColor=4a4a8a)
+![GitHub Actions](https://img.shields.io/badge/Actions-f5f5ff?style=flat-square&logo=githubactions&logoColor=4a4a8a)
 ![Prometheus](https://img.shields.io/badge/Prometheus-fff5f0?style=flat-square&logo=prometheus&logoColor=c05020)
+![Grafana](https://img.shields.io/badge/Grafana-fff8f0?style=flat-square&logo=grafana&logoColor=d06010)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dha2608&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5fb&title_color=c060a0&icon_color=e080c0&text_color=705090&ring_color=f0a0d0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dha2608&show_icons=true&hide_border=true&bg_color=0d0118&title_color=e87890&icon_color=c080ff&text_color=c8a8f8&ring_color=e87890&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dha2608&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff5fb&title_color=c060a0&text_color=705090" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dha2608&layout=compact&hide_border=true&bg_color=0d0118&title_color=e87890&text_color=c8a8f8&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dha2608&theme=rose-pine&hide_border=true&background=FFF5FB&stroke=F0A0D0&ring=E060A0&fire=FF6090&currStreakLabel=C060A0&sideNums=9060B0&sideLabels=C090C0&dates=C0A0C8" width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dha2608&hide_border=true&background=0D0118&stroke=e87890&ring=e87890&fire=ff6090&currStreakLabel=e87890&sideNums=c080ff&sideLabels=a060d8&dates=8060a8" width="55%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dha2608&bg_color=0d0118&color=e87890&line=c080ff&point=ffffff&area=true&area_color=e8789030&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🌱 Contribution Garden
+## 📅 Timeline
 
-<div align="center">
+```
+2024 – PRESENT  ████████████████  Fullstack Developer
+                                  Building FinGenie · React Native + Spring Boot + Gemini AI
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dha2608&bg_color=fff5fb&color=c060a0&line=e080c0&point=a040a0&area=true&area_color=f8d0e8&hide_border=true" width="100%" />
+2023            ████████          Intern Frontend Developer  
+                                  React · Next.js · TypeScript · deep UI/UX obsession
 
-</div>
+2022            ██████            First internship & open source contributions
+                                  Node.js · Express · REST APIs · PostgreSQL
+
+2021 – 2025     ████████████████  BSc Software Engineering
+                                  Vietnam · Specialization: Web · AI · Cloud
+
+2021            ✦                 First commit ever 🎉
+                                  Hello World → the journey begins
+```
 
 ---
 
@@ -106,30 +140,46 @@ const dha2608 = {
 <div align="center">
 
 <a href="https://github.com/dha2608/fingenie">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dha2608&repo=fingenie&theme=rose_pine&hide_border=true&bg_color=fffafd&title_color=8850c8&icon_color=e080c0&text_color=9080a0" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dha2608&repo=fingenie&hide_border=true&bg_color=0d0118&title_color=e87890&icon_color=c080ff&text_color=c8a8f8" />
 </a>
 &nbsp;
 <a href="https://github.com/dha2608/anitrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dha2608&repo=anitrack&theme=rose_pine&hide_border=true&bg_color=fffafd&title_color=8850c8&icon_color=e080c0&text_color=9080a0" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dha2608&repo=anitrack&hide_border=true&bg_color=0d0118&title_color=e87890&icon_color=c080ff&text_color=c8a8f8" />
 </a>
 
 </div>
 
-<br/>
+| Project | Description | Stack | Stars |
+|:--------|:-----------|:------|:-----:|
+| 🌸 **FinGenie** | AI expense app — chat with your finances like a wise forest spirit | React Native · Spring Boot · Gemini | ⭐ 48 |
+| 🎌 **AniTrack** | Anime watchlist tracker with mood-based recommendations | React · Node.js · MongoDB | ⭐ 31 |
+| ✨ **DevPortal** | Minimal pastel portfolio template, animated & open source | Next.js · TypeScript · Framer Motion | ⭐ 19 |
 
-| 🌸 Project | 📝 Description | 🛠️ Stack | ⭐ |
-|:---|:---|:---|:---:|
-| **FinGenie** | AI-powered expense app — chat with your finances like a wise forest spirit | React Native · Spring Boot · Gemini AI | 48 |
-| **AniTrack** | Personal anime tracker with mood-based recommendations | React · Node.js · MongoDB | 31 |
-| **DevPortal** | Minimal pastel portfolio template for developers, open source | Next.js · TypeScript · Framer Motion | 19 |
+---
+
+## 🕸️ Skill Radar
+
+```
+        Frontend ████████████████████ 90%
+         Backend ████████████████░░░░ 80%
+        Database ███████████████░░░░░ 75%
+          DevOps █████████████░░░░░░░ 65%
+           UI/UX █████████████████░░░ 85%
+           AI/ML ██████████████░░░░░░ 70%
+```
 
 ---
 
 ## 🎋 Motto
 
-> *"No matter how many times you're reborn, I'll find you.  
-> I think that's what it means to be connected by the red thread of fate."*  
-> — **Studio Ghibli** 🌸
+<div align="center">
+
+> *"No matter how many times you're reborn, I'll find you.*
+> *I think that's what it means to be connected by the red thread of fate."*
+>
+> **— Studio Ghibli · Spirited Away 🌸**
+
+</div>
 
 ---
 
@@ -137,10 +187,10 @@ const dha2608 = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-dha2608-c0a0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=9070d0)](https://github.com/dha2608)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6ba3e8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4a7ac7)](https://linkedin.com/in/dha2608)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff80b0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=d060a0)](https://dha2608.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-f0a0c0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c07090)](mailto:dha2608@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dha2608-0d0118?style=for-the-badge&logo=github&logoColor=c080ff&labelColor=0d0118)](https://github.com/dha2608)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0118?style=for-the-badge&logo=linkedin&logoColor=80c0ff&labelColor=0d0118)](https://linkedin.com/in/dha2608)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d0118?style=for-the-badge&logo=vercel&logoColor=e87890&labelColor=0d0118)](https://dha2608.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-0d0118?style=for-the-badge&logo=gmail&logoColor=f0a0c0&labelColor=0d0118)](mailto:dha2608@gmail.com)
 
 </div>
 
@@ -148,8 +198,10 @@ const dha2608 = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0828,50:2a1040,100:0e1a3a&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-*Made with love, coffee & Studio Ghibli OSTs* 🌸✨
+*「 Made with love, coffee & Joe Hisaishi OSTs 」* 🌸✨🌿
+
+<sub><sup>dha2608 · 2026 · Every line of code is a petal in the wind</sup></sub>
 
 </div>
