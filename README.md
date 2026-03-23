@@ -3,7 +3,7 @@
 <!-- WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=SeraxNyxie&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Nature%20Dreamer%20%C2%B7%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=3500&pause=1000&color=C050A0&center=true&vCenter=true&repeat=true&width=600&height=60&lines=const+life+%3D+%7B+code%3A+true%2C+nature%3A+true+%7D+%F0%9F%8C%B8;Building+beautiful+things%2C+one+commit+at+a+time+%F0%9F%8D%83;Chasing+that+Ghibli+feeling+in+every+UI+%F0%9F%8C%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=22&duration=3500&pause=1000&color=C050A0&center=true&vCenter=true&repeat=true&width=620&height=60&lines=const+life+%3D+%7B+code%3A+true%2C+nature%3A+true+%7D+%F0%9F%8C%B8;Building+beautiful+things%2C+one+commit+at+a+time+%F0%9F%8D%83;Chasing+that+Ghibli+feeling+in+every+UI+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,19 +23,44 @@
 
 ## 🌿 About Me
 
+<table>
+<tr>
+<td width="38%" valign="top">
+
+**SeraxNyxie** 🌸
+`Fullstack Developer · Code Poet`
+📍 Vietnam 🇻🇳 · UTC+7
+
+---
+
+🌸 Open to Work
+🍃 Clean Code Advocate
+🎌 Ghibli Enthusiast
+☕ Coffee-powered
+🌿 Open Source
+🎵 Coding with OSTs
+
+</td>
+<td width="62%" valign="top">
+
 ```typescript
-const dha2608 = {
+const SeraxNyxie = {
   name      : "SeraxNyxie",
   role      : "Fullstack Developer",
   location  : "Vietnam 🇻🇳",
-  stacks    : ["React", "Node.js", "TypeScript", "Spring Boot"],
-  passions  : ["Clean Code", "Studio Ghibli", "UI/UX Design", "Open Source"],
-  currentlyBuilding : "FinGenie — AI expense management app ",
-  funFact   : "I debug code while listening to Ghibli OSTs ",
+  stacks    : ["React", "Node.js",
+               "TypeScript", "Spring Boot"],
+  building  : "FinGenie — AI expense app 🌸",
+  funFact   : "Debugging to Ghibli OSTs 🎵🌲",
+  // currently vibing to: Joe Hisaishi
 };
 ```
 
-> Hey there! I'm a Fullstack Developer who writes clean code by day and walks through Ghibli forests by night 🌲🌙
+</td>
+</tr>
+</table>
+
+> Hey! I'm a Fullstack Developer who writes clean code by day and walks through **Ghibli forests** by night 🌲🌙
 >
 > I believe great software, like great anime, **tells a story**.
 > I build with **React & Node.js**, obsess over UI details, and chase that feeling when everything just *flows* — like wind through the grass in Totoro's meadow 🍀
@@ -67,13 +92,68 @@ const dha2608 = {
 
 ---
 
-## 🌲 Journey
+## 🌲 My Journey
 
-```
-🌸 2024 – present   Fullstack Developer        React · Node.js · PostgreSQL
-🍃 2023             Frontend Intern            UI/UX · React · Figma
-🌿 2020 – 2024      B.Sc. Computer Science     Graduated with distinction
-```
+<table>
+<tr>
+<td width="18%" align="center">
+
+🌸
+**2024**
+**— now**
+
+</td>
+<td width="82%">
+
+**Fullstack Developer**
+Building production-grade web & mobile apps
+
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-edf2ff?style=flat-square&logo=postgresql&logoColor=285888)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ecfff0?style=flat-square&logo=springboot&logoColor=287828)
+![Docker](https://img.shields.io/badge/Docker-e8f5ff?style=flat-square&logo=docker&logoColor=006898)
+
+</td>
+</tr>
+<tr>
+<td width="18%" align="center">
+
+🍃
+**2023**
+
+</td>
+<td width="82%">
+
+**Frontend Intern**
+Crafting pixel-perfect interfaces & design systems
+
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
+![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
+![Figma](https://img.shields.io/badge/Figma-fff3f0?style=flat-square&logo=figma&logoColor=c85030)
+
+</td>
+</tr>
+<tr>
+<td width="18%" align="center">
+
+🌿
+**2020**
+**— 2024**
+
+</td>
+<td width="82%">
+
+**B.Sc. Computer Science** · Graduated with distinction
+Thesis on distributed systems
+
+![Algorithms](https://img.shields.io/badge/Algorithms-f5eeff?style=flat-square&logoColor=7040b8)
+![Databases](https://img.shields.io/badge/Databases-edfff2?style=flat-square&logoColor=287828)
+![Networking](https://img.shields.io/badge/Networking-eef5ff?style=flat-square&logoColor=285888)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -107,8 +187,6 @@ const dha2608 = {
 
 ## 🍀 Featured Projects
 
-<!-- PROJECT CARDS — click to open repo -->
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -118,19 +196,20 @@ const dha2608 = {
 
 Kết nối người dùng gần nhau, khám phá địa điểm & sự kiện xung quanh theo thời gian thực 🗺️
 
+![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![Node.js](https://img.shields.io/badge/Node.js-eafff2?style=flat-square&logo=nodedotjs&logoColor=258040)
 ![Socket.io](https://img.shields.io/badge/Socket.io-f5f0ff?style=flat-square&logo=socketdotio&logoColor=4838a0)
-![Maps API](https://img.shields.io/badge/Maps_API-fff3e8?style=flat-square&logo=googlemaps&logoColor=b04820)
 
 </td>
 <td width="50%" valign="top">
 
 ### ✨ [CVmate](https://github.com/dha2608/CVmate)
-> Tạo CV chuyên nghiệp tự động bằng AI
+> AI tự động sinh CV chuyên nghiệp
 
 Nhập thông tin, AI phân tích & sinh ra CV đẹp sẵn sàng xuất PDF trong vài giây 📄
 
+![JavaScript](https://img.shields.io/badge/JavaScript-fffae8?style=flat-square&logo=javascript&logoColor=a87800)
 ![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![AI/LLM](https://img.shields.io/badge/AI%2FLLM-f5eeff?style=flat-square&logo=openai&logoColor=7040b8)
 ![PDF](https://img.shields.io/badge/PDF_Export-fff0f0?style=flat-square&logo=adobeacrobatreader&logoColor=b03020)
@@ -171,8 +250,8 @@ Duyệt danh mục hoa, đặt hàng và tặng quà với giao diện pastel t�
 
 Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh viên 📚
 
-![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=2848b8)
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=1c8cb8)
 ![Vite](https://img.shields.io/badge/Vite-f5f0ff?style=flat-square&logo=vite&logoColor=7040b8)
 
 </td>
@@ -182,7 +261,9 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 > *"Every great project starts with a single commit"* 🌱
 
-[![GitHub](https://img.shields.io/badge/See_all_repos-f5f0ff?style=for-the-badge&logo=github&logoColor=7040b8)](https://github.com/dha2608?tab=repositories)
+<br/>
+
+[![See all repos](https://img.shields.io/badge/🌿_See_all_repos-f5f0ff?style=for-the-badge&logo=github&logoColor=7040b8)](https://github.com/dha2608?tab=repositories)
 
 </td>
 </tr>
@@ -190,41 +271,13 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 ---
 
-## 🎵 Now Playing on Spotify
-
-<!-- 
-  ╔══════════════════════════════════════════════════════╗
-  ║  SETUP SPOTIFY "NOW PLAYING" — 3 bước đơn giản:    ║
-  ╠══════════════════════════════════════════════════════╣
-  ║  1. Fork: github.com/JeffreyCA/spotify-recently-   ║
-  ║     played-readme                                   ║
-  ║  2. Deploy lên Vercel + điền SPOTIFY_CLIENT_ID,    ║
-  ║     SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN   ║
-  ║  3. Thay YOUR_APP_URL bên dưới bằng Vercel URL     ║
-  ╚══════════════════════════════════════════════════════╝
--->
+## 🎵 Currently Listening
 
 <div align="center">
----
 
-## Currently Listening
-
-<p align="center">
-  <a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&width=600&unique=true" />
-  </a>
-</p>
-
-
-<!-- Hoặc dùng novatorem/spotify-github-profile: -->
-<!-- [![Spotify](https://YOUR_APP.vercel.app/api?background_color=fff5fb&border_color=f0c0d8)](https://open.spotify.com) -->
-
-</div>
-
-<!-- PLACEHOLDER KHI CHƯA SETUP — xoá block này sau khi setup xong -->
-<div align="center">
-
-> 🎋 *Currently listening to: **One Summer's Day** — Joe Hisaishi (Spirited Away OST)* 🌿
+<a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&width=600&unique=true" />
+</a>
 
 </div>
 
@@ -243,7 +296,7 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/🌿_GitHub-dha2608-c0a0ff?style=for-the-badge&labelColor=f5f0ff)](https://github.com/dha2608)
+[![GitHub](https://img.shields.io/badge/🌿_GitHub-SeraxNyxie-c0a0ff?style=for-the-badge&labelColor=f5f0ff)](https://github.com/dha2608)
 [![LinkedIn](https://img.shields.io/badge/🌊_LinkedIn-Connect-6ba3e8?style=for-the-badge&labelColor=f0f5ff)](https://linkedin.com/in/dha2608)
 [![Portfolio](https://img.shields.io/badge/🍀_Portfolio-Visit-80c8a0?style=for-the-badge&labelColor=f0fff5)](https://dha2608.vercel.app)
 [![Email](https://img.shields.io/badge/🌸_Email-Say_Hi-f0a0c0?style=for-the-badge&labelColor=fff5fb)](mailto:dha2608@gmail.com)
