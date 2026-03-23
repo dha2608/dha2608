@@ -205,7 +205,15 @@ Tổng hợp tài liệu, bài giảng và ôn tập trực tuyến cho sinh vi�
 -->
 
 <div align="center">
+---
 
+## 🎧 Currently Listening
+
+<p align="center">
+  <a href="https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&width=600&unique=true" />
+  </a>
+</p>
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=317a5piogpvphdsatuu2a3b42dgm&count=1&width=500)](https://open.spotify.com/user/317a5piogpvphdsatuu2a3b42dgm)
 
 <!-- Hoặc dùng novatorem/spotify-github-profile: -->
