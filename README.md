@@ -1,6 +1,5 @@
 
 <div align="center">
-
 <!-- WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=SeraxNyxie&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Nature%20Dreamer%20%C2%B7%20Code%20Poet&descSize=17&descAlignY=58&descColor=ffe0f0" width="100%"/>
 
