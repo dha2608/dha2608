@@ -160,9 +160,12 @@ Thesis on distributed systems
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=5erax&show_icons=true&hide_border=true&bg_color=fff5fb&title_color=c060a0&icon_color=e080c0&text_color=705090&ring_color=f0a0d0&count_private=true&cache_seconds=1800&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5erax&layout=compact&hide_border=true&bg_color=fff5fb&title_color=c060a0&text_color=705090&langs_count=6&cache_seconds=1800" />
+<a href="https://github.com/5erax">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=5erax&show_icons=true&hide_border=true&bg_color=fff5fb&title_color=c060a0&icon_color=e080c0&text_color=705090&ring_color=f0a0d0&count_private=true&rank_icon=github&cache_seconds=21600" />
+</a>
+<a href="https://github.com/5erax">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5erax&layout=compact&hide_border=true&bg_color=fff5fb&title_color=c060a0&text_color=705090&langs_count=6&card_width=320&cache_seconds=21600" />
+</a>
 
 </div>
 
